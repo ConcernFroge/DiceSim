@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 203840f6e1b19464ca6492570f40e8d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dice4: {instanceID: 0}
+  - dice6: {fileID: 2253110401708303648, guid: 88548d60a880e6841b574f669e60f8fe, type: 3}
+  - dice8: {instanceID: 0}
+  - dice10: {instanceID: 0}
+  - dice12: {instanceID: 0}
+  - dice20: {instanceID: 0}
+  - tex: {fileID: 2800000, guid: ecb3727d31d46d74f97c233643d2b3f4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
