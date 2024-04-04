@@ -111,7 +111,7 @@ public class SpawnerScript : MonoBehaviour
         
         diceObject.transform.position = new Vector3(20,5,rnd.Next(-1,1));
         diceObject.transform.Rotate(rnd.Next(0, 360), rnd.Next(0, 360), rnd.Next(0, 360)); 
-        Vector3 m_NewForce = new Vector3(rnd.Next(-15,0), rnd.Next(-5,0), rnd.Next(-5,5));
+        Vector3 m_NewForce = new Vector3(rnd.Next(-20,-3), rnd.Next(-5,0), rnd.Next(-5,5));
         diceObject.GetComponent<Rigidbody>().AddForce(m_NewForce, ForceMode.Impulse);
     }
 
