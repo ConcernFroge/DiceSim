@@ -1,11 +1,8 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using System.Linq;
-using UnityEngine.Diagnostics;
-using UnityEngine.UI;
 using Random = System.Random;
 /// <summary>
 /// Class to spawn and roll dices

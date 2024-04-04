@@ -1,11 +1,7 @@
-using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Dynamic;
 using UnityEngine;
 using TMPro;
 using System.Linq;
-using UnityEditorInternal;
 using UnityEngine.UI;
 /// <summary>
 /// Class to handle UI interactions
